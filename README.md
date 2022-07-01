@@ -1,4 +1,4 @@
-# covid
+# covid- SQL
 
 Analysis of covid 19 in the world and a special analysis for Brazil using BigQuery and Google DtaStudio
 

@@ -8,13 +8,13 @@ This analysis is a study of COVID 19 using SQL as a language on Google platforms
 
 So with that compression I can know what I could do to present the data.
 
-show the world data of new cases, and new cases of married death by covid.
+Show the world data of new cases, and new cases of married death by covid.
 
-analyze covid in brazil and point out which regions were most affected.
+Analyze covid in brazil and point out which regions were most affected.
 
-show the total number of new cases
+Show the total number of new cases
 
-show the total number of new deaths
+Show the total number of new deaths
 
 
 CSV files were uploaded to the BigQuery platform and analyzed that there were some values ​​missing.  For these values ​​I replace the with the ND value.  Some column names were also substituted.  I created two new tables and loaded the treated data inside it.

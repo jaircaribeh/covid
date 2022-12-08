@@ -8,7 +8,7 @@ This analysis is a study of COVID 19 using SQL as a language on Google platforms
 
 So with that compression I can know what I could do to present the data.
 
-Show the world data of new cases, and new cases of married death by covid.
+Show the world data of new cases, and new cases of death by covid.
 
 Analyze covid in brazil and point out which regions were most affected.
 
